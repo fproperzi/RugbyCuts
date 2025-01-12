@@ -1,4 +1,4 @@
-VLC Rugby Cuts
+RugbyCuts, a VLC extension 
 ==============
 Using VLC and HandBrake, ffmpeg to cut rugby video
 
