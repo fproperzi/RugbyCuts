@@ -1,9 +1,9 @@
 VLC Rugby Cuts
 ==============
-Using VLC and HandBrake to cut rugby video
+Using VLC and HandBrake, ffmpeg to cut rugby video
 
 - Install VLC
-- Copy clips.rugbycut.1.6.lua in VLC extensions directory
+- Copy clips.rugbycut.3.6.lua in VLC extensions directory
 
 ![RRcut.01.png](help/RRcut.01.png)
 
